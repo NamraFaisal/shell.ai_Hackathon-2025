@@ -74,57 +74,7 @@ n_estimators	200
 random_state	42
 Scoring Metric	MAPE
 Output	Multi-output regression (10 blend properties)
-📊 Evaluation Metric
 
-The hackathon uses Mean Absolute Percentage Error (MAPE):
-
-MAPE
-=
-1
-𝑛
-∑
-𝑖
-=
-1
-𝑛
-∣
-𝑦
-𝑖
-−
-𝑦
-^
-𝑖
-𝑦
-𝑖
-∣
-×
-100
-MAPE=
-n
-1
-	​
-
-i=1
-∑
-n
-	​
-
-	​
-
-y
-i
-	​
-
-y
-i
-	​
-
-−
-y
-^
-	​
-
-i
 	​
 
 	​
